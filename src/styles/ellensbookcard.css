@@ -1,0 +1,105 @@
+/* Code for BookCard */
+
+.bookcard{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 16px;
+    border-radius: 15px;
+    border: 1px solid slategray;
+}
+  
+  .image{
+    width: 150px;
+    height: 200px;
+    border-radius: 10px;
+}
+  
+  .innerdetailsbox{
+    padding-left: 16px;
+    width: fit-content;
+    height: fit-content;
+}
+
+  .title2{
+    width: 100%; 
+    background-color: white;
+    font-family: 'Abril Fatface', serif;
+    white-space: nowrap;   
+}
+  
+  .detailsbutton{
+    font-family: 'Inter', sans-serif;
+    width:fit-content;
+    height:auto;
+    color:white;
+    cursor:pointer;
+    border-radius: 5px;
+    border:none;
+    padding: 8px 10px;
+    font-weight: bold;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+  .detailsbutton:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+  
+  .buttons{
+    display: flex;
+    flex-wrap:wrap;
+    gap: 5px;
+    width: 100%;
+}
+
+/*Media Queries*/
+
+
+  @media only screen and (min-width: 360px) and (max-width: 480px) {
+  
+  .bookcard p{
+    margin-bottom:8px;
+  }
+
+  .buttons{
+    margin-top: 16px;
+    gap:16px;
+  }  
+
+  .bookcard img{
+    width:200px;
+    height: 250px;
+    
+  }
+
+  .innerdetailsbox{
+   padding-left: 0;
+  }
+  
+}
+
+  @media only screen and (min-width: 481px) and (max-width:600px) {
+  
+    .bookcard p{
+      margin-bottom:8px;
+    }
+  
+    .buttons{
+      margin-top: 16px;
+      gap:16px;
+    }  
+  
+    .bookcard img{
+      width:130px;
+      height: 190px;
+      
+    }
+    .bookcard{
+      padding:8px;
+      }
+}
+  

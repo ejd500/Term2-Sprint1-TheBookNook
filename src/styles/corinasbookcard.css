@@ -1,0 +1,180 @@
+.corinasbookcard{
+    width: 230px;
+    height:fit-content;  
+    background-color: white;
+    border: 1px solid slategray;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    padding: 16px;
+    border-radius: 16px;
+    margin:16px;
+      
+}
+ 
+.btn{
+    margin-left: 24px;
+    width:fit-content;
+    height:auto;
+    color:white;
+    cursor:pointer;
+    border-radius: 5px;
+    border:none;
+    padding:8px 8px;
+    font-weight: bold;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+ 
+.btn:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+     
+h2{
+    font-family: 'Abril Fatface', serif;
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-shadow: 0px 10px 10px rgba(0,0,0,.2)   
+}   
+ 
+h3{font-family: 'Inter', sans-serif;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;   
+}
+ 
+p{font-family:'Inter', sans-serif;
+               
+}
+ 
+.bold{
+    font-weight: bold;
+}
+ 
+.corinasbookcard h3,
+.corinasbookcard p,
+.corinasbookcard Button{
+    margin:6px;
+}
+ 
+img{
+    border-radius: 20px;
+    height: 200px;
+    width: auto;   
+}
+ 
+.corinascards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+ 
+.featured, .new-arrivals {
+    
+    margin-left: 2%;
+    color: white;
+    font-size: 24px;   
+    padding: 8px 12px;
+    border-radius: 4px;
+    display: inline-block;
+    border-top: 1px solid gainsboro;
+    border-bottom: 1px solid gainsboro;
+    width:94%;
+   
+}
+
+/*Media Queries*/
+ 
+@media only screen and (min-width: 360px) and (max-width: 480px) {
+    .featured, .new-arrivals {
+        width:fit-content;
+    }
+
+    .corinasbookcard{
+        width:240px;
+           
+    }
+
+    .img{
+       height:220px;
+       width:auto;
+
+    }
+}
+
+
+@media only screen and (min-width: 480px) and (max-width:600px){
+    .featured, .new-arrivals {
+        width:fit-content;
+    }
+
+    .corinasbookcard{
+        width:180px;
+        margin:8px;
+           
+    }
+
+    .img{
+       height:220px;
+       width:auto;
+
+    }
+}
+
+@media screen and (min-width: 601px) and (max-width: 797px) and (orientation:landscape) {
+    .featured, .new-arrivals {
+        width:fit-content;
+    }
+
+    .corinasbookcard{
+        width:210px;
+        margin: 24px;
+    }
+
+    .img{
+        height:220px;
+        width:auto;
+    }
+  } 
+
+
+@media screen and (min-width: 768px) and (max-width: 899px) {
+    .featured, .new-arrivals {
+        width:fit-content;
+    }
+    .corinasbookcard{
+        width:240px;
+        margin: 24px;
+  
+    }
+    .img{
+        height:220px;
+        width:auto;
+    }
+}
+
+@media screen and (min-width: 900px) and (max-width: 1023px) {
+    .featured, .new-arrivals {
+        width:fit-content;
+    }
+
+    .corinasbookcard{
+        width:170px;
+        margin: 12px;
+        padding:12px;
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1199px) {
+    .featured, .new-arrivals {
+        width:fit-content;
+    }
+
+    .corinasbookcard{
+        width:200px;
+        margin: 12px;
+        padding:12px;
+    }
+}
