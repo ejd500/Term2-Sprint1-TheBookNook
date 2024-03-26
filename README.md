@@ -1,5 +1,7 @@
 # Term2-Sprint1-TheBookNook
 
+To view the deployed project visit https://ejd500.github.io/the-book-nook/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
