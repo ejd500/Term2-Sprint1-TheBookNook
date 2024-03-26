@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/the-book-nook/static/css/main.83e27b0e.css",
-    "main.js": "/the-book-nook/static/js/main.4f1d72f7.js",
+    "main.js": "/the-book-nook/static/js/main.b6f6ef85.js",
     "static/js/496.2cc2ea71.chunk.js": "/the-book-nook/static/js/496.2cc2ea71.chunk.js",
     "static/media/photo1.jpg": "/the-book-nook/static/media/photo1.827677b1efac442f4f4d.jpg",
     "static/media/the_woods.png": "/the-book-nook/static/media/the_woods.1b43c7d4dbb5c1e4fae3.png",
@@ -26,11 +26,11 @@
     "static/media/twitter.png": "/the-book-nook/static/media/twitter.e768a27d71bb7a95517b.png",
     "index.html": "/the-book-nook/index.html",
     "main.83e27b0e.css.map": "/the-book-nook/static/css/main.83e27b0e.css.map",
-    "main.4f1d72f7.js.map": "/the-book-nook/static/js/main.4f1d72f7.js.map",
+    "main.b6f6ef85.js.map": "/the-book-nook/static/js/main.b6f6ef85.js.map",
     "496.2cc2ea71.chunk.js.map": "/the-book-nook/static/js/496.2cc2ea71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83e27b0e.css",
-    "static/js/main.4f1d72f7.js"
+    "static/js/main.b6f6ef85.js"
   ]
 }
