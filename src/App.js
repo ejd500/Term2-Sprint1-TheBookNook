@@ -38,7 +38,7 @@ function App() {
 
 
   return (
-    <Router>
+    <Router basename="/the-book-nook">
       <ShoppingCart handleButtonClick = {handleButtonClick} orderSummary={orderSummary.length}/>
       <ClearCart handleClearCart = {handleClearCart}/>
       
