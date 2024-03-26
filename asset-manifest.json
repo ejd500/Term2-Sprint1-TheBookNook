@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/the-book-nook/static/css/main.83e27b0e.css",
+    "main.js": "/the-book-nook/static/js/main.4f1d72f7.js",
+    "static/js/496.2cc2ea71.chunk.js": "/the-book-nook/static/js/496.2cc2ea71.chunk.js",
+    "static/media/photo1.jpg": "/the-book-nook/static/media/photo1.827677b1efac442f4f4d.jpg",
+    "static/media/the_woods.png": "/the-book-nook/static/media/the_woods.1b43c7d4dbb5c1e4fae3.png",
+    "static/media/healty_bfast.png": "/the-book-nook/static/media/healty_bfast.cd0de0cfece9597a504c.png",
+    "static/media/mindfulness.png": "/the-book-nook/static/media/mindfulness.1d3d7fd3f92ae5223312.png",
+    "static/media/toward_tomorrow.png": "/the-book-nook/static/media/toward_tomorrow.713f9fa152d76bad0a45.png",
+    "static/media/dreamer.png": "/the-book-nook/static/media/dreamer.1b38659608526c755c0a.png",
+    "static/media/story_you_me.png": "/the-book-nook/static/media/story_you_me.1f3d6ae51c19217a7d47.png",
+    "static/media/her.png": "/the-book-nook/static/media/her.9d61b51e9e17a1bd8041.png",
+    "static/media/solo.png": "/the-book-nook/static/media/solo.b58c21db56afec2bea7b.png",
+    "static/media/ellens-book.png": "/the-book-nook/static/media/ellens-book.35de141c99b705adc094.png",
+    "static/media/safari_animals.png": "/the-book-nook/static/media/safari_animals.896bb8970aa0ebbab3ec.png",
+    "static/media/photo3.jpg": "/the-book-nook/static/media/photo3.f1feb9dff33a4e25a75d.jpg",
+    "static/media/photo2.jpg": "/the-book-nook/static/media/photo2.3822ea994f2e3ac51d61.jpg",
+    "static/media/artic_animals.png": "/the-book-nook/static/media/artic_animals.dd765fef0a21a20f5d65.png",
+    "static/media/music_life.jpg": "/the-book-nook/static/media/music_life.bd2c1ac7603cd7808a7d.jpg",
+    "static/media/little_secret.png": "/the-book-nook/static/media/little_secret.207fb1e3ecdd822c936e.png",
+    "static/media/calm.png": "/the-book-nook/static/media/calm.63d8aa7878edb0c12dc6.png",
+    "static/media/instagram.svg": "/the-book-nook/static/media/instagram.8eb286619e3cff41078cf8e908a1d28b.svg",
+    "static/media/shopping_cart.png": "/the-book-nook/static/media/shopping_cart.cb837f2ec682a11bbfd0.png",
+    "static/media/facebook.png": "/the-book-nook/static/media/facebook.65062c0e6678602327eb.png",
+    "static/media/twitter.png": "/the-book-nook/static/media/twitter.e768a27d71bb7a95517b.png",
+    "index.html": "/the-book-nook/index.html",
+    "main.83e27b0e.css.map": "/the-book-nook/static/css/main.83e27b0e.css.map",
+    "main.4f1d72f7.js.map": "/the-book-nook/static/js/main.4f1d72f7.js.map",
+    "496.2cc2ea71.chunk.js.map": "/the-book-nook/static/js/496.2cc2ea71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83e27b0e.css",
+    "static/js/main.4f1d72f7.js"
+  ]
+}
